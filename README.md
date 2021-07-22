@@ -1,6 +1,6 @@
 # react-library-boilerplate
 
-> A library containing common reusable components for flare finance
+> A library containing common reusable components
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
