@@ -1,4 +1,4 @@
-# flare-react-library
+# react-library-boilerplate
 
 > A library containing common reusable components for flare finance
 
@@ -8,7 +8,7 @@
 
 Add in your package.json the following:
 ```bash
-"flare-react-library": "git@github.com:flrfinance/flare-react-library.git",
+"react-library-boilerplate": "git@github.com:wirednkod/react-library-boilerplate.git",
 ```
 
 ## Usage
@@ -34,4 +34,4 @@ Making changes on the components will appear immediately in the page mentioned a
 
 ## License
 
-MIT © [Flare Finance](https://github.com/flrfinance)
+MIT © [wirednkod](https://github.com/wirednkod)
