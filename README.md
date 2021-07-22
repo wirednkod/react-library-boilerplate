@@ -16,7 +16,7 @@ Add in your package.json the following:
 ```tsx
 import React, { Component } from 'react'
 
-import { MyComponent } from 'flare-lib'
+import { MyComponent } from 'react-library-boilerplate'
 
 class Example extends Component {
   render() {
